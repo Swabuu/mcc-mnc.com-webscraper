@@ -5,6 +5,7 @@ Scrapes mcc-mnc.com and outputs 3 files with the data (JSON, CSV &amp; XLSX)
 A Python script for web scraping mcc-mnc.com
  
 Link: mcc-mnc.com
+Examples: in the repo
 
 This script is using Beautifulsoup, requests and Pandas. Pip install them and you're good to go.
 
