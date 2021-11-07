@@ -8,8 +8,8 @@ Link: mcc-mnc.com
 
 This script is using Beautifulsoup, requests and Pandas. Pip install it and you're ready to go.
 
-> pip install beautifulsoup4
-> pip install requests
+> pip install beautifulsoup4<br/>
+> pip install requests<br/>
 > pip install pandas 
 
 # TO DO
