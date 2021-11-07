@@ -6,7 +6,7 @@ A Python script for web scraping mcc-mnc.com
  
 Link: mcc-mnc.com
 
-This script is using Beautifulsoup, requests and Pandas. Pip install it and you're ready to go.
+This script is using Beautifulsoup, requests and Pandas. Pip install them and you're good to go.
 
 > pip install beautifulsoup4<br/>
 > pip install requests<br/>
